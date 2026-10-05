@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "titulo": "Interestelar",
+    "anio": 2014,
+    "genero": "Ciencia ficción",
+    "director": "Christopher Nolan",
+    "imagen": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Toy Story",
+    "anio": 1995,
+    "genero": "Animación",
+    "director": "John Lasseter",
+    "imagen": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Titanic",
+    "anio": 1997,
+    "genero": "Drama / Romance",
+    "director": "James Cameron",
+    "imagen": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Coco",
+    "anio": 2017,
+    "genero": "Animación",
+    "director": "Lee Unkrich",
+    "imagen": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Avatar",
+    "anio": 2009,
+    "genero": "Ciencia ficción",
+    "director": "James Cameron",
+    "imagen": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Coraline",
+    "anio": 2009,
+    "genero": "Animación / Fantasía",
+    "director": "Henry Selick",
+    "imagen": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JXxj2r6Wk6R.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Shrek",
+    "anio": 2001,
+    "genero": "Animación / Comedia",
+    "director": "Andrew Adamson y Vicky Jenson",
+    "imagen": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Harry Potter y la piedra filosofal",
+    "anio": 2001,
+    "genero": "Fantasía",
+    "director": "Chris Columbus",
+    "imagen": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Joker",
+    "anio": 2019,
+    "genero": "Drama / Crimen",
+    "director": "Todd Phillips",
+    "imagen": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Frozen",
+    "anio": 2013,
+    "genero": "Animación / Musical",
+    "director": "Chris Buck y Jennifer Lee",
+    "imagen": "https://image.tmdb.org/t/p/w500/m3g6q6W5dQhR4bqfM9k8W7w1Y3N.jpg"
+  }
+]

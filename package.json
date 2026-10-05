@@ -1,0 +1,17 @@
+{
+  "name": "api-peliculas",
+  "version": "1.0.0",
+  "description": "API REST de películas con Node.js, Express y JSON, con frontend consumidor.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
